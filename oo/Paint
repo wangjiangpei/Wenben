@@ -1,0 +1,19 @@
+setARGB/setColor 设置颜色
+
+setAlpha 设置透明度
+
+setAntiAlias 设置是否抗锯齿
+
+setShader 设置画笔的填充效果
+
+setShadowLayer 设置阴影
+
+setStyle 设置画笔风格
+
+setStrokeWidth 设置空心边框的宽度
+
+setTextSize 设置绘制文本时文字的大小
+
+setStrokeCap(Paint.Cap.ROUND) 设置为圆角
+
+更多的设置方法参考：https://developer.android.com/reference/android/graphics/Paint.html
